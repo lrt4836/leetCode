@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e1ccf71-8b2a-470c-a6f5-8efb82e83b35" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0e1ccf71-8b2a-470c-a6f5-8efb82e83b35" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="[21]合并两个有序链表.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="[21]合并两个有序链表.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[21]合并两个有序链表.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="307">
               <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="[83]删除排序链表中的重复元素.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[83]删除排序链表中的重复元素.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -40,6 +50,7 @@
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[350]两个数组的交集 II.js" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[1030]距离顺序排列矩阵单元格.js" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[21]合并两个有序链表.js" />
+        <option value="$PROJECT_DIR$/leetcode/editor/cn/[83]删除排序链表中的重复元素.js" />
       </list>
     </option>
   </component>
@@ -142,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573702894994</updated>
-      <workItem from="1573702897906" duration="7330000" />
+      <workItem from="1573702897906" duration="7917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7330000" />
+    <option name="totallyTimeSpent" value="7917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="26" y="23" width="1253" height="709" extended-state="0" />
@@ -255,6 +266,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[83]删除排序链表中的重复元素.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
