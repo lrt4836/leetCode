@@ -14,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="[69]x 的平方根.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[69]x 的平方根.js">
+      <file leaf-file-name="[167]两数之和 II - 输入有序数组.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+            <state relative-caret-position="323">
+              <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="[167]两数之和 II - 输入有序数组.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.js">
+      <file leaf-file-name="[1]两数之和.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="285">
+              <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -62,6 +62,7 @@
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[35]搜索插入位置.js" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[69]x 的平方根.js" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.js" />
+        <option value="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.js" />
       </list>
     </option>
   </component>
@@ -171,12 +172,12 @@
       <workItem from="1573984179740" duration="1212000" />
       <workItem from="1574036423863" duration="521000" />
       <workItem from="1574043516165" duration="2005000" />
-      <workItem from="1574131744343" duration="3792000" />
+      <workItem from="1574131744343" duration="4587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29715000" />
+    <option name="totallyTimeSpent" value="30510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1253" height="709" extended-state="0" />
@@ -414,16 +415,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[69]x 的平方根.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        <state relative-caret-position="195">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="323">
+          <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           <folding />
         </state>
       </provider>
