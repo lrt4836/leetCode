@@ -34,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="[217]存在重复元素.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="[217]存在重复元素.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[217]存在重复元素.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="[219]存在重复元素 II.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,6 +87,7 @@
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[136]只出现一次的数字.js" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[202]快乐数.js" />
         <option value="$PROJECT_DIR$/leetcode/editor/cn/[217]存在重复元素.js" />
+        <option value="$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.js" />
       </list>
     </option>
   </component>
@@ -187,12 +198,12 @@
       <workItem from="1574036423863" duration="521000" />
       <workItem from="1574043516165" duration="2005000" />
       <workItem from="1574131744343" duration="9653000" />
-      <workItem from="1574220899141" duration="939000" />
+      <workItem from="1574220899141" duration="1139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36515000" />
+    <option name="totallyTimeSpent" value="36715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1253" height="709" extended-state="0" />
@@ -475,6 +486,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
